@@ -1,5 +1,14 @@
 # regrets
 
+## Installation
+
+```
+library(devtools)
+install_github('vincentarelbundock/regrets')
+```
+
+## Usage
+
 ```
 library(regrets)
 
