@@ -11,7 +11,7 @@ fact_list = c("The Great Egret is the symbol of the National Audubon Society, on
 #' @export
 regrets_fact = function() {
     out = sample(fact_list, 1)
-    return(out)
+    cowsay::say(out, by = 'egret')
 }
 
 #' Save a random egret photo to file

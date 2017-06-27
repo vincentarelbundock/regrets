@@ -3,7 +3,7 @@ Title: Print facts and photos of egrets
 Version: 0.0.1
 Authors@R: person("Jane Lawrence", "Sumner", email = "first.last@example.com", role = c("aut", "cre"))
 Description: Print facts and photos of egrets
-Depends: R (>= 3.3.3), jpeg (>= 0.1-8)
+Depends: R (>= 3.3.3), jpeg (>= 0.1-8), cowsay (>= 0.5.2.9100)
 License: GPL3
 Encoding: UTF-8
 LazyData: true
